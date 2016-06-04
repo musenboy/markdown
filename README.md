@@ -1,7 +1,4 @@
-# markdown
-title: markdown语法入门
-tags: 
-    - markdown
+# markdown语法入门
 ---
 
 # 标题
@@ -15,8 +12,6 @@ tags:
 ##### 标题5
 ###### 标题6  
 ```
-
-<!--more-->
 
 效果
 
