@@ -126,7 +126,6 @@ Markdown 支持有序列表和无序列表。
 function myblog() {
     alert("我的个人博客http://www.musenboy.com");
 }
-```              
 ```
 
 
@@ -136,7 +135,7 @@ function myblog() {
 function myblog() {
     alert("我的个人博客http://www.musenboy.com");
 } 
-```
+
 
 
 # 分割线
